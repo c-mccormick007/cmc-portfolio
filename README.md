@@ -1,12 +1,68 @@
-# React + Vite
+# Chris McCormick · Portfolio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This portfolio showcases select software projects developed to streamline and automate business operations—primarily focused on Accounts Payable automation, internal tooling, and data visualization.
 
-Currently, two official plugins are available:
+> 💼 Designed for recruiters, hiring managers, and engineers interested in workflow efficiency, Python automation, and pragmatic full-stack development.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
 
-## Expanding the ESLint configuration
+## 🔧 Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- **Frontend:** React, Tailwind CSS, Vite
+- **Backend:** SQLite, Node.js (limited)
+- **Automation Tools:** Python (Tkinter, Pandas, PyMuPDF, Playwright, pywin32)
+- **Mobile:** React Native + Expo + Firebase
+- **Hosting:** GitHub Pages, Render
+
+---
+
+## 📌 Featured Projects
+
+### 🔹 AP Automation Suite
+A full-featured Python system that handles:
+- PDF parsing and renaming
+- Email processing
+- Purchase Order matching
+- AS400 macro automation
+
+**Impact:**  
+Saved over **$130,000 in labor** annually by eliminating manual data entry for over **18,000 invoices**.
+
+➡️ [Impact Report on GitHub](https://github.com/c-mccormick007/ap_solutions/blob/main/README.md)
+
+---
+
+### 🔹 AP Stats Dashboard
+Internal-facing React web app that visualizes:
+- Invoices processed
+- Time saved
+- Keystroke reductions
+
+Built with real-time updates and secured routes.
+
+➡️ [Live Demo](https://c-mccormick007.github.io/my-ap-stats)  
+🔒 Backend/API access available on request
+
+---
+
+### 🔹 Disc Golf League Mobile App (WIP)
+React Native app for managing club events, tags, and push alerts for local disc golf leagues. Built to solve real coordination pain points with Firebase backend.
+
+---
+
+## 📫 Contact
+
+📍 Chicago, IL  
+📧 [chris.mccormick.dev@gmail.com](mailto:chris.mccormick.dev@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/c-mccormick007)  
+🌐 [Portfolio](https://c-mccormick007.github.io/cmc-portfolio)
+
+---
+
+## ⚙️ Run Locally
+
+```bash
+git clone https://github.com/c-mccormick007/cmc-portfolio.git
+cd cmc-portfolio
+npm install
+npm run dev
