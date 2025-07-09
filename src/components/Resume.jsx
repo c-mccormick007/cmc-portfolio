@@ -63,7 +63,7 @@ export default function Resume() {
 
         <div className="mt-6">
           <a
-            href="/chris-mccormick-resume-25.pdf"
+            href="/cmc-portfolio/chris-mccormick-resume-25.pdf"
             target="_blank"
             className="inline-block bg-blue-600 hover:bg-blue-500 text-white px-6 py-3 rounded-lg font-medium transition  hover:scale-105"
           >

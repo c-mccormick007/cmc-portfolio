@@ -31,7 +31,7 @@ export default function Home() {
               View Projects
             </a>
             <a
-              href="/chris-mccormick-resume-25.pdf"
+              href="/cmc-portfolio/chris-mccormick-resume-25.pdf"
               target="_blank"
               className="border border-zinc-400 hover:bg-zinc-800 text-white px-5 py-3 rounded-lg font-medium transition hover:scale-105"
             >
