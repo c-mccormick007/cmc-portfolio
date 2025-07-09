@@ -1,0 +1,35 @@
+@import "tailwindcss";
+
+/*scrollbars*/
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: #444; 
+  border-radius: 4px;
+  border: 2px solid transparent;
+  background-clip: content-box;
+}
+
+/*firefox scrollbar*/
+* {
+  scrollbar-width: thin;
+  scrollbar-color: #444 #1e87ff;
+}
+
+/*kill cursor caret*/
+*:not(input):not(textarea):not([contenteditable="true"]) {
+  caret-color: transparent;
+}
+
+/*scroll smooov*/
+html {
+  scroll-behavior: smooth;
+}
+
