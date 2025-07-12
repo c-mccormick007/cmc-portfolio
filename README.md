@@ -1,8 +1,8 @@
 # Chris McCormick · Portfolio
 
-This portfolio showcases select software projects developed to streamline and automate business operations—primarily focused on Accounts Payable automation, internal tooling, and data visualization.
+This portfolio showcases select software projects developed to automate business operations—primarily focused on Accounts Payable automation, internal tooling, and data visualization.
 
-> 💼 Designed for recruiters, hiring managers, and engineers interested in workflow efficiency, Python automation, and pragmatic full-stack development.
+> 💼 Designed for recruiters, hiring managers, and engineers interested in workflow efficiency, Python automation, and full-stack development.
 
 ---
 
@@ -41,7 +41,7 @@ Internal-facing React web app that visualizes:
 Built with real-time updates and secured routes.
 
 ➡️ [Live Demo](https://c-mccormick007.github.io/my-ap-stats)  
-🔒 Backend/API access available on request
+🔒 Backend/API + password access available on request
 
 ---
 
@@ -53,7 +53,7 @@ React Native app for managing club events, tags, and push alerts for local disc 
 ## 📫 Contact
 
 📍 Chicago, IL  
-📧 [chris.mccormick.dev@gmail.com](mailto:chris.mccormick.dev@gmail.com)  
+📧 [chris.mccormick1295@gmail.com](mailto:chris.mccormick.dev@gmail.com)  
 🔗 [LinkedIn](https://www.linkedin.com/in/c-mccormick007)  
 🌐 [Portfolio](https://c-mccormick007.github.io/cmc-portfolio)
 
